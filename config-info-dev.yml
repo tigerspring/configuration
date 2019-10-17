@@ -1,3 +1,4 @@
-cn :
-  springcloud :
-    book : dev evn
+cn:
+  springcloud:
+    book:
+      config: dev info
